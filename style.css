@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+@media (min-width: 770px) {
+    body {
+        background-color: red;
+    }
+}
+
+
+@media (min-width: 1030px) {
+    body {
+        background-color: white;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    body {
+        background-color: blue;
+    }
+}
