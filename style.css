@@ -4,6 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     background-color: #ff76f8;
+    border: #31be49;
 }
 
 header {
@@ -28,7 +29,7 @@ nav ul {
 }
 
 nav a {
-    color: rgb(252, 170, 103);
+    color: rgb(68, 0, 255);
     text-decoration: none;
     font-weight: bold;
 }
